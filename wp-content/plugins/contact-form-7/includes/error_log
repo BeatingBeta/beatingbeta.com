@@ -1,0 +1,2 @@
+[11-May-2013 20:20:57] PHP Fatal error:  Call to undefined function  add_filter() in /home3/buildjd6/public_html/beatingbeta/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[11-May-2013 20:21:41] PHP Fatal error:  Call to undefined function  add_action() in /home3/buildjd6/public_html/beatingbeta/wp-content/plugins/contact-form-7/includes/controller.php on line 3
